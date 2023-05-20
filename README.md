@@ -4,8 +4,10 @@ This code allows interaction with a PostgreSQL database using the SQLDatabaseCha
 A. Database Setup:
 - If you already have a PostgreSQL database, skip this step.
 - If you don't have a PostgreSQL database:
-  - 1.Run the `db.py` script provided in the project repository. This script will create the necessary tables and add some initial rows to the database. You can modify this    script to customize the database setup according to your needs.
-  - 2. Alternatively, you can create the database manually using a PostgreSQL client like pgAdmin or any other app of your choice.
+  - Run the `db.py` script provided in the project repository when your database is running.
+  - This script will create the necessary tables and add some initial rows to the database. 
+  - You can modify this script to customize the database setup according to your needs.
+  - Alternatively, you can create the database manually using a PostgreSQL client like pgAdmin or any other app of your choice.
 
 B. Usage:
 - To interact with the application and receive results based on specific queries:
