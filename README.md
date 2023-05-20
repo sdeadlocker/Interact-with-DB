@@ -22,4 +22,5 @@ B. Usage:
   python without_query.py
   ```
 - This script will provide results without any specific instructions or prompts.
-
+Below is the output:
+![image (1)](https://github.com/sdeadlocker/Interact-with-DB/assets/102584952/83eff767-16fb-444f-968b-bfacda84c80f)
