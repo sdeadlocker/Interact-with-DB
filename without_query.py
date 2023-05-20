@@ -26,8 +26,8 @@ API_KEY = env('apikey')
 
 # db_user = "db_user"
 # db_pass = "reading from env"
-db_host = "localhost:5432"
-db_name = "testdb"
+db_host = "db_host"
+db_name = "db_name"
 
 # Connect to the PostgreSQL database
 
